@@ -1,2 +1,2 @@
 # bioinformatics
-Bash scripts for internal use
+Bash and R scripts for internal use
